@@ -1,4 +1,4 @@
-# File Downloader and installer
+# File Downloader and Installer
 The source code is written in Java.
 Read the comments in the source code and make the necessary changes.
 The jar file org.apache.commons.io.jar should be added to class path.
